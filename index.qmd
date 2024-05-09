@@ -1,0 +1,11 @@
+---
+title: "Home"
+page-layout: full
+---
+
+Hallo,
+
+My name is Andrej Zaslove. I am an Associate Professor of Comparative Politics at Radboud University in Nijmegen, The Netherlands. 
+
+
+
