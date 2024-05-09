@@ -1,0 +1,11 @@
+---
+title: "Shiny Apps"
+page-layout: full
+css: custom.css
+---
+
+This is a link my shiny app from our POPPA data. The app includes the data from 2018 and from 2023: [Populism and Political Parties Expert Survey (POPPA)](https://s2vcdn-andrej-zaslove.shinyapps.io/shiny_app_poppa2_version2/)
+
+This is a link to a shiny app on [Effective Number of Parties](https://s2vcdn-andrej-zaslove.shinyapps.io/shiny_fragmentation_srv/) from this article in [Stukroodvlees](https://stukroodvlees.nl/de-kiesstelsels-van-omtzigt-en-bbb-betekenen-minder-partijen-en-minder-evenredige-vertegenwoordiging/).
+
+This is a link to a shiny app on [Disproportionality](https://s2vcdn-andrej-zaslove.shinyapps.io/shiny_app_disp_srv/) from this article in [Stukroodvlees](https://stukroodvlees.nl/de-kiesstelsels-van-omtzigt-en-bbb-betekenen-minder-partijen-en-minder-evenredige-vertegenwoordiging/). 

@@ -1,0 +1,23 @@
+/* css styles */
+
+
+/* Unvisited link */
+a:link {
+  color: blue; /* Blue color for unvisited links */
+}
+
+/* Visited link */
+a:visited {
+  color: purple; /* Purple color for visited links */
+}
+
+/* Mouse over link */
+a:hover {
+  color: red; /* Red color on hover */
+}
+
+/* Selected link */
+a:active {
+  color: yellow; /* Yellow color for active links */
+}
+

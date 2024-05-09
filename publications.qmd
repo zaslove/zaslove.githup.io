@@ -1,6 +1,55 @@
 ---
 title: "Publications"
+page-layout: full
 ---
 
+## Journal Publications
 
+#. Claassen, C., Ackermann, K., Bertsou, E., Carlin, R., Dahlum, S., Gherghina, S., Lelkes, Y., Magalhães, P., Mattes, R., Meijers, M.J, Neundorf, A., Ozturk, A., Stanley, B., Tsai, T-h., Yu, C-h., Zaslove, A, and Zechmeister E., (2024) Conceptualising and Measuring support for Liberal Democracy across the World”. Comparative Political Studies     
+
+#. Verbeek, B., Zaslove, A., (2023). Explanations of the Rise of Populism: A Second Image Reversed Perspective. International Studies Review, 25(4). [Link](https://academic.oup.com/isr/article-abstract/25/4/viad035/7276481?redirectedFrom=PDF&casa_token=-08FsmsTnz0AAAAA:x8Dn_ia1X0xblakLcESqn5J3M4uyzKStYDW65ytp3kx6GeB6MNNBfKZt9a98uTkwWdw7xDJ2F17t)      
+#. Zaslove, A., & Meijers, M. (2023). Populist Democrats? Unpacking the Relationship Between Populist and Democratic Attitudes at the Citizen Level. Political Studies. [Link](https://journals.sagepub.com/doi/full/10.1177/00323217231173800). Populist Democrats? Unpacking the RelationshipBetween Populist and Democratic Attitudes at the Citizen Level. Political Studies.)    
+#. Spruyt, B., Rooduijn, M., & Zaslove, A. (2023). Ideologically consistent, but for whom? An empirical assessment of the populism-elitism-pluralism set of attitudes and the moderating role of political sophistication. Politics, 43(4), 536-552. [Link](https://journals.sagepub.com/doi/full/10.1177/02633957211017763)   
+#. Meijers, M. J., & Zaslove, A. (2021). Measuring populism in political parties: appraisal of a new approach. Comparative Political Studies, 54(2), 372-407. [Link](https://journals.sagepub.com/doi/full/10.1177/00323217231173800)      
+#. Zaslove, A., Geurkink, B., Jacobs, K., & Akkerman, A. (2021). Power to the people? Populism, democracy, and political participation: a citizen's perspective. West European Politics, 44(4), 727-751. [Link](https://www.tandfonline.com/doi/full/10.1080/01402382.2020.1776490)       
+#. Geurkink, B., Zaslove, A., Sluiter, R., & Jacobs, K. (2020). Populist attitudes, political trust, and external political efficacy: Old wine in new bottles?. Political Studies, 68(1), 247-267. [Link](https://journals.sagepub.com/doi/full/10.1177/0032321719842768)     
+#. Verbeek, B., & Zaslove, A. (2019). Contested Issues Surrounding Populism in Public and Academic Debates. The International Spectator, 54(2), 1-16.    [Link](https://www.tandfonline.com/doi/full/10.1080/03932729.2019.1606513)    
+#. Jacobs, K., Akkerman, A., & Zaslove, A. (2018). The voice of populist people? Referendum preferences, practices and populist attitudes. Acta Politica, 53(4), 517-541. [Link](https://link.springer.com/article/10.1057/s41269-018-0105-1)       
+#. Akkerman, A., Zaslove, A., & Spruyt, B. (2017). ‘We the people’ or ‘we the peoples’? A comparison of support for the populist radical right and populist radical left in the Netherlands. Swiss Political Science Review, 23(4), 377-403. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12275)      
+#. Spierings, N., & Zaslove, A. (2017). Gender, populist attitudes, and voting: explaining the gender gap in voting for populist radical right and populist radical left parties. West European Politics, 40(4), 821-847. [Link](https://www.tandfonline.com/doi/full/10.1080/01402382.2017.1287448)   
+#. Spierings, N., Lubbers, M., & Zaslove, A. (2017). ‘Sexually modern nativist voters’: do they exist and do they vote for the populist radical right?. Gender and Education, 29(2), 216-237.    
+#. Verbeek, B., & Zaslove, A. (2016). Italy: a case of mutating populism?. Democratization, 23(2), 304-323. [Link](#. Verbeek, B., & Zaslove, A. (2016). Italy: a case of mutating populism?. Democratization, 23(2), 304-323. [Link](https://www.tandfonline.com/doi/abs/10.1080/13510347.2015.1076213?casa_token=KN-HfB1RSVYAAAAA:KMZjZ51kd4xB7rylbXpxSJ84RcNf3aZicFOdzxBG2sxQQJe3zXXr1jOxtGuQe908I1F-XtDjEg4)          
+)   
+#. Verbeek, B., & Zaslove, A. (2015). The impact of populist radical right parties on foreign policy: the Northern League as a junior coalition partner in the Berlusconi Governments. European Political Science Review, 7(4), 525-546. [Link](https://www.cambridge.org/core/journals/european-political-science-review/article/impact-of-populist-radical-right-parties-on-foreign-policy-the-northern-league-as-a-junior-coalition-partner-in-the-berlusconi-governments/D805BE9058DE018856EC7D2FC740A1BA)  
+#. Spierings, N., & Zaslove, A. (2015). Gendering the vote for populist radical-right parties. Patterns of Prejudice, 49(1-2), 135-162. [Link](https://www.tandfonline.com/doi/full/10.1080/0031322X.2015.1024404)    
+#. Spierings, N., Zaslove, A., Mügge, L. M., & de Lange, S. L. (2015). Gender and populist radical-right politics: an introduction. Patterns of prejudice, 49(1-2), 3-15. [Link](https://www.tandfonline.com/doi/full/10.1080/0031322X.2015.1023642)    
+#. Spierings, N., & Zaslove, A. (2015). Conclusion: Dividing the populist radical right between ‘liberal nativism’ and traditional conceptions of gender. Patterns of Prejudice, 49(1-2), 163-173. [Link](https://www.tandfonline.com/doi/full/10.1080/0031322X.2015.1024466)     
+#. Akkerman, A., Mudde, C., & Zaslove, A. (2014). How populist are the people? Measuring populist attitudes in voters. Comparative Political Studies, 47(9), 1324-1353. [Link](https://journals.sagepub.com/doi/full/10.1177/0010414013512600)    
+#. Schmidtke, O., & Zaslove, A. (2014). Why regions matter in immigrant integration policies: North Rhine-Westphalia and Emilia-Romagna in comparative perspective. Journal of Ethnic and Migration Studies, 40(12), 1854-1874. [Link](https://www.tandfonline.com/doi/full/10.1080/1369183X.2013.867232)  
+#. Zaslove, A. (2012). The populist radical right in government: the structure and agency of success and failure. Comparative European Politics, 10(4), 421-448. [Link](https://link.springer.com/article/10.1057/cep.2011.19)    
+#. Zaslove, A. (2008). Exclusion, community, and a populist political economy: the radical right as an anti-globalization movement. Comparative European Politics, 6(2), 169-189. [Link](https://link.springer.com/article/10.1057/palgrave.cep.6110126)  
+#. Zaslove, A. (2008). Here to stay? Populism as a new party type. European review, 16(3), 319-336. [Link](https://www.cambridge.org/core/journals/european-review/article/here-to-stay-populism-as-a-new-party-type/3669F7E751B42165F5FEB9FF5C57AE92)    
+#. Zaslove, A. (2007). Alpine populism, Padania and beyond: a response to Duncan McDonnell. Politics, 27(1), 64-68. [Link](https://journals.sagepub.com/doi/full/10.1111/j.1467-9256.2007.00280.x)   
+#. Zaslove, A. (2004). The dark side of European politics: unmasking the radical right. Journal of European Integration, 26(1), 61-81. [Link](https://www.tandfonline.com/doi/full/10.1080/0703633042000197799)        
+#. Zaslove, A. (2004). Closing the door? The ideology and impact of radical right populism on immigration policy in Austria and Italy. Journal of Political Ideologies, 9(1), 99-118. [Link](https://www.tandfonline.com/doi/full/10.1080/1356931032000167490)      
+
+## Books 
+#.	Absorbing the Blow: Populist Parties and their Impact on Parties and Party Systems (editor with Steven Wolinetz, Memorial University), ECPR Press/ Rowman & Littlefield, 2018. [Link](https://www.google.nl/books/edition/Absorbing_the_Blow/qd4CjwEACAAJ?hl=nl)   
+
+#. The Re-invention of the European Radical Right: Populism, Regionalism, and the Italian Lega Nord, McGill-Queen’s University Press, 2011. [Link](https://books.google.nl/books?hl=nl&lr=&id=TyMo_AOmij0C&oi=fnd&pg=PP1&dq=%23.+The+Re-invention+of+the+European+Radical+Right:+Populism,+Regionalism,+and+the+Italian+Lega+Nord,+McGill-Queen%E2%80%99s+University+Press,+2011+&ots=bjG4Ghdia8&sig=1_4U4q-kx8bhQuuV_sgxEvE7W-Y&redir_esc=y#v=onepage&q=%23.%20The%20Re-invention%20of%20the%20European%20Radical%20Right%3A%20Populism%2C%20Regionalism%2C%20and%20the%20Italian%20Lega%20Nord%2C%20McGill-Queen%E2%80%99s%20University%20Press%2C%202011&f=false)    
+
+## Book Chapters 
+
+#. Leonie de Jonge, Rooduijn M., and Zaslove, A. (2024, forthcoming) The evolution of populism in Dutch politics, Oxford Handbook of Dutch Politics, forthcoming 2024.     
+
+#. Zaslove, A. (2022). Measuring Populist Attitudes. The Populism Interviews: A Dialogue with Leading Experts, 8. (Interview with the author).            
+#.  Verbeek, J. & Zaslove, A. (2019) “Has Populism Eroded the Quality of European Democracy? Insights from Italy and the Netherlands”, in Weyland, K., & Madrid, R. L. (Eds.) When Democracy Trumps Populism. Cambridge University Press.            
+#.  Verbeek, J. A., Vossen, K. P. S. S., & Zaslove, A. S. (2019). De PVV en het Nederlandse buitenlandse beleid. Voerman, G.; Vossen, KPSS (ed.), Wilders Gewogen. 15 Jaar Reuring in de Nederlandse Politiek, 269-290.           
+#.  Verbeek, J. & A., Zaslove, A. S., & Rooduijn, M. (2018). “Italian Populism: Toppling and re-building the party system twice” in Wolinetz S. & Zaslove A. (Eds). Absorbing the Blow: Populist Parties and their Impact on Parties and Party Systems ECPR Press/ Rowman & Littlefield.          
+#.  Wolinetz, S., & Zaslove, A. S. (2018). “The Impact of Populist Parties on Party Systems” in Wolinetz S. & Zaslove A. (Eds). Absorbing the Blow: Populist Parties and their Impact on Parties and Party Systems ECPR Press/ Rowman & Littlefield.          
+#.  van Klingeren, M., Zaslove, A., & Verbeek, J. (2017). “Accommodating the Dutch populist radical right in a multi-party system: Success or failure?” In The European Mainstream and the Populist Radical Right (pp. 124-145). Routledge.        
+#.  Verbeek, J. & Zaslove, A, (2017) “Populism and Foreign Policy”, in Cristobal Rovira Kaltwasser and Paul Taggert (eds), Handbook of Populism, Oxford University Press.          
+#.  Verbeek, J. & Zaslove A. (2015) “The Counter Forces of European Integration: Nationalism, Populism and EU Foreign Policy”, in Knud Erik Jørgensen, Åsne Kalland Aarstad, Katie Verlin Laatikainen, Edith Drieskens and Ben Tonra (eds.), Sage Handbook of European Foreign Policy, Sage, pp. 526-542.           
+#.  Schmidtke O. & Zaslove, A. (2014) “Politicizing Migration in Competitive Party Politics: Exploring the Regional and Federal Arenas in Germany and Italy”, pp. 177-199. In Hepburn, E., & Zapata-Barrero, R. (Eds.). The Politics of Immigration in Multi-level States: Governance and Political Parties. Palgrave Macmillan.        
+#.  Triadafilopolous, T. & Zaslove A. (2006) “Influencing Migration Policy from Inside: Political Parties”, in Dialogues in Migration Policy, Eds. Marco Giugni and Florence Passy, (Lexington Books: Lanham, MD), pp. 171-192.              
 
